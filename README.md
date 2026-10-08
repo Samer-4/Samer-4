@@ -2,7 +2,7 @@
 
 **AI Engineering · Machine Learning · Healthcare AI**
 
-I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University in Seattle**, after graduating from **UC San Diego with a B.S. in Cognitive Science, specializing in Machine Learning and Neural Computation**.
+I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University in Seattle**, after graduating from **UC San Diego with a B.S. in Cognitive Science, with a specialization in Machine Learning and Neural Computation**.
 
 I've always been fascinated by human behavior, how our environments shape the way we think and make decisions, and the impact those decisions have on the world around us. As AI becomes increasingly integrated into our lives, I believe understanding the human side of technology is just as important as building it.
 
@@ -83,6 +83,8 @@ This project taught me a lot about what happens beyond simply training a model, 
 ### 03. EEG-Based Attention State Classification
 
 **Machine Learning · Neuroscience · Signal Processing**
+
+[Try the Live Demo](https://huggingface.co/spaces/Samer17/NeuroFocus)
 
 A project exploring how EEG signals can be used to study and classify different cognitive attention states.
 
