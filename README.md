@@ -2,11 +2,11 @@
 
 **AI Engineering · Machine Learning · Healthcare AI**
 
-I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University in Seattle**, after graduating from **UC San Diego with a B.S. in Cognitive Science (Machine Learning and Neural Computation)**.
+I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University in Seattle**, after graduating from **UC San Diego with a B.S. in Cognitive Science, specializing in Machine Learning and Neural Computation**.
 
-I'm fascinated by how intelligence works, whether that's understanding how humans think and behave or building AI systems that can solve real-world problems.
+I've always been fascinated by human behavior, how our environments shape the way we think and make decisions, and the impact those decisions have on the world around us. As AI becomes increasingly integrated into our lives, I believe understanding the human side of technology is just as important as building it.
 
-These days, I'm especially interested in **AI engineering, LLMs, agentic workflows, and healthcare AI**. I love the process of taking an idea, figuring out how to build it, breaking things along the way, and eventually getting something to work.
+These days, I'm especially interested in **AI engineering, LLMs, agentic workflows, and healthcare AI**, with a focus on building AI systems that solve real-world problems while keeping people involved in the decisions that matter.
 
 ---
 
@@ -14,11 +14,11 @@ These days, I'm especially interested in **AI engineering, LLMs, agentic workflo
 
 For a long time, I actually thought I'd end up in the medical field.
 
-I've always wanted to do something meaningful in healthcare, but somewhere along the way, I realized that technology offered another way to make a difference. Rather than working directly with one patient at a time, I became interested in building tools that could support healthcare professionals and potentially help many people at once.
+I've always wanted to do something meaningful in healthcare, but somewhere along the way, I realized that technology offered another way to make a difference. Rather than working in an environment where I could help one person at a time, I became interested in building tools that could support healthcare professionals and potentially help many people at once.
 
 That curiosity led me toward cognitive science, machine learning, and eventually AI engineering.
 
-I'm particularly interested in the intersection of **human cognition, intelligent systems, and healthcare**. I love understanding why people behave the way they do, how our environments influence our decisions, and how we can use what we learn to build better technology.
+I'm particularly interested in the intersection of **human cognition, intelligent systems, and healthcare**. I enjoy understanding why people behave the way they do, how our environments influence our decisions, and how we can use what we learn to build better technology.
 
 A few things about me:
 
@@ -26,7 +26,7 @@ A few things about me:
 - 👨‍🏫 **Currently:** Teaching Assistant for Algorithms at Northeastern
 - 💻 **Building:** LLM-powered applications, machine learning systems, and healthcare AI projects
 - 📍 **Based in:** Seattle, Washington
-- 🚀 **Goal:** Become the kind of engineer who can take an AI idea from an experiment to a working product
+- 🚀 **Goal:** Build AI systems that move beyond experimentation into practical, reliable applications
 
 ---
 
@@ -62,8 +62,7 @@ This is probably the project I'm most excited about right now. It brings togethe
 
 **Deep Learning · Computer Vision · Healthcare**
 
-[Try the Live Demo](https://huggingface.co/spaces/Samer17/chest-xray-classifier-demo) |
-[View the Model](https://huggingface.co/Samer17/chest-xray-multilabel-classifier)
+[Try the Live Demo](https://huggingface.co/spaces/Samer17/chest-xray-classifier-demo) | [View the Model](https://huggingface.co/Samer17/chest-xray-multilabel-classifier)
 
 A deep learning system for identifying 14 labeled thoracic findings from chest X-ray images.
 
@@ -107,22 +106,15 @@ Some projects start as random questions, others come from problems I genuinely w
 
 Technologies I've worked with across coursework, research, and personal projects.
 
-**Languages**
-Python · SQL
+**Languages:** Python · SQL
 
-**Machine Learning & Data**
-PyTorch · scikit-learn · NumPy · Pandas · SciPy · Jupyter
+**Machine Learning & Data:** PyTorch · scikit-learn · NumPy · Pandas · SciPy · Jupyter
 
-**LLMs & Applied AI**
-Anthropic API · Pydantic · Prompt Engineering · Embeddings · RAG · Structured LLM Workflows
+**LLMs & Applied AI:** Anthropic API · Pydantic · Prompt Engineering · Embeddings · RAG · Structured LLM Workflows
 
-**Development & Experimentation**
-Git · GitHub · VS Code · Hugging Face · Weights & Biases
+**Development & Experimentation:** Git · GitHub · VS Code · Hugging Face · Weights & Biases
 
-**Currently Learning**
-LangChain · LangGraph · Docker · Backend APIs · Cloud Deployment · AI Evaluation
-
-I'm still learning a lot of these technologies, and I think that's part of what makes engineering exciting. There's always something new to understand or a better way to build something.
+**Currently Learning:** LangChain · LangGraph · Docker · Backend APIs · Cloud Deployment · AI Evaluation
 
 ---
 
@@ -130,16 +122,16 @@ I'm still learning a lot of these technologies, and I think that's part of what 
 
 A few technical areas I've been spending time on:
 
-- **Agentic AI:** Building workflows that can reason through multiple steps, manage state, and evaluate their own intermediate results.
+- **Agentic AI:** Building workflows that can reason through multiple steps, manage state, and evaluate their intermediate results.
 - **RAG Systems:** Improving retrieval quality, grounding, and the reliability of LLM-generated responses.
 - **AI Engineering:** Moving beyond notebooks into APIs, testing, containerization, and deployment.
 - **Healthcare AI:** Exploring where machine learning and intelligent automation can meaningfully support healthcare.
 
 ---
 
-## 🌎 Beyond the Code
+## 🌎 Beyond the Tech Space
 
-There's a lot more to me than Python and machine learning.
+There's a lot more to me than what you see above.
 
 I've always been curious about **people**, especially why we behave the way we do and how different environments shape our decisions, personalities, and perspectives.
 
@@ -149,15 +141,13 @@ Outside of that, here's a little more about me:
 
 - 🏋️ **Fitness:** I love lifting, staying active, and seeing how far I can push myself. Meal prepping has become a pretty big part of my routine too.
 - 🍳 **Cooking:** I genuinely enjoy cooking and experimenting with food. There's something satisfying about making a great meal from scratch.
-- 🎧 **Music:** Big part of my life. I actually used to DJ for a fraternity back in college, which is still a pretty wild chapter to look back on.
+- 🎧 **Music:** Music has always been a big part of my life. I actually used to DJ back in college.
 - 🏎️ **Anything with an engine:** Huge motorhead. I love cars, motorcycles, and pretty much anything automotive.
 - 🎨 **Art:** I've always appreciated creativity and the different ways people express themselves, whether through visual art, music, or design.
 - 📚 **Reading & Curiosity:** Psychology, philosophy, geopolitics, history... honestly, if something catches my attention, I'll probably end up reading about it.
 - 🌲 **Nature:** Something I've started appreciating a lot more recently. Living in the Pacific Northwest certainly helps.
 
-I like having interests that don't necessarily overlap. I think exploring different perspectives, whether through people, places, or completely unrelated subjects, makes life a lot more interesting.
-
-And sometimes the best ideas come when you're doing something completely unrelated to work.
+I like having interests that don't necessarily overlap. Exploring different perspectives, whether through people, places, or completely unrelated subjects, makes life a lot more interesting.
 
 ---
 
