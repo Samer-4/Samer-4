@@ -1,205 +1,176 @@
-# Hey, I'm Samer!
+# Hey, I'm Samer! 👋
 
-**AI Engineering | Machine Learning | Healthcare AI**
+**AI Engineering · Machine Learning · Healthcare AI**
 
-I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University, Seattle**, after completing my **B.S. in Cognitive Science (Machine Learning and Neural Computation) at UC San Diego**.
+I'm currently pursuing my **M.S. in Artificial Intelligence at Northeastern University in Seattle**, after graduating from **UC San Diego with a B.S. in Cognitive Science (Machine Learning and Neural Computation)**.
 
-My interests sit at the intersection of artificial intelligence, software engineering, and healthcare. I enjoy taking ideas beyond notebooks and experiments, building systems that are practical, explainable, and useful in the real world.
+I'm fascinated by how intelligence works, whether that's understanding how humans think and behave or building AI systems that can solve real-world problems.
 
-Right now, I'm especially interested in **LLM-powered applications, retrieval-augmented generation (RAG), agentic workflows, and applied machine learning**.
-
-When I'm not working on coursework, you'll probably find me improving an existing project, experimenting with a new framework, or learning something that makes me a better engineer.
+These days, I'm especially interested in **AI engineering, LLMs, agentic workflows, and healthcare AI**. I love the process of taking an idea, figuring out how to build it, breaking things along the way, and eventually getting something to work.
 
 ---
 
-## A Little About Me
+## 🧠 A Little About Me
 
-- **Currently:** M.S. Artificial Intelligence student at Northeastern University
-- **Previously:** B.S. Cognitive Science at UC San Diego
-- **Also:** Teaching Assistant for Algorithms at Northeastern
-- **Interested in:** AI Engineering, Healthcare AI, Machine Learning, and Intelligent Systems
-- **Based in:** Seattle, Washington
-- **Always working on:** Turning interesting AI ideas into functional applications
+For a long time, I actually thought I'd end up in the medical field.
 
-I originally became interested in AI through cognitive science and neuroscience. Understanding how humans perceive, learn, and make decisions sparked my curiosity about building intelligent systems.
+I've always wanted to do something meaningful in healthcare, but somewhere along the way, I realized that technology offered another way to make a difference. Rather than working directly with one patient at a time, I became interested in building tools that could support healthcare professionals and potentially help many people at once.
 
-That curiosity eventually grew into a passion for engineering AI applications, particularly those that can help solve meaningful problems in healthcare.
+That curiosity led me toward cognitive science, machine learning, and eventually AI engineering.
 
----
+I'm particularly interested in the intersection of **human cognition, intelligent systems, and healthcare**. I love understanding why people behave the way they do, how our environments influence our decisions, and how we can use what we learn to build better technology.
 
-## Projects I'm Proud Of
+A few things about me:
 
-These are a few projects that represent what I've been learning, building, and exploring.
-
-### 1. Prior Authorization Appeal Builder
-
-**Applied AI | LLM Workflows | Healthcare AI | Python**
-
-[View Repository](https://github.com/Samer-4/priorauth-rag)
-
-An AI-powered workflow designed to help analyze prior authorization denials and generate evidence-grounded appeal drafts.
-
-The current implementation uses a multi-stage Python pipeline to:
-
-- Extract structured information from denial documents.
-- Validate extracted information using Pydantic.
-- Identify relevant payer policy requirements.
-- Extract supporting evidence from clinical documentation.
-- Evaluate evidence sufficiency against individual criteria.
-- Generate structured, patient-specific appeal drafts.
-
-**Current stack:** Python, Anthropic API, Pydantic, structured LLM outputs.
-
-**Currently expanding toward:**
-- RAG-based policy retrieval and source citations.
-- LangChain integration for reusable AI components.
-- LangGraph for stateful orchestration and conditional retry loops.
-- Automated verification and evaluation.
-- Docker containerization and API deployment.
-
-**Status:** Active development.
-
-This is one of my main ongoing projects because it brings together healthcare, language models, reasoning workflows, and software engineering.
-
-### 2. Multi-Label Chest X-Ray Classifier
-
-**Deep Learning | Computer Vision | Healthcare AI | PyTorch**
-
-[Live Demo](https://huggingface.co/spaces/Samer17/chest-xray-classifier-demo) |
-[Hugging Face Model](https://huggingface.co/Samer17/chest-xray-multilabel-classifier)
-
-A deep learning project exploring multi-label classification of thoracic findings in chest X-ray images.
-
-Built using the NIH ChestX-ray14 dataset, containing over 112,000 images across 14 labeled thoracic conditions.
-
-**Highlights:**
-- Fine-tuned an ImageNet-pretrained ResNet-50.
-- Used patient-level train, validation, and test splits.
-- Applied weighted binary cross-entropy for multi-label learning.
-- Achieved **0.823 mean ROC-AUC** on a held-out test set.
-- Integrated Grad-CAM for model interpretability.
-- Published model artifacts and an interactive Hugging Face demo.
-
-**Stack:** Python, PyTorch, torchvision, scikit-learn, Weights & Biases, Hugging Face.
-
-**Status:** Completed core ML pipeline with a published interactive demo.
-
-This project helped me better understand the full machine learning lifecycle, from dataset preparation and model training to evaluation, interpretability, and sharing a working application.
-
-### 3. EEG-Based Attention State Classification
-
-**Machine Learning | Neuroscience | Signal Processing**
-
-An exploration of how EEG signals and machine learning can be used to study cognitive attention states.
-
-The project investigates frequency-domain EEG features, including theta, alpha, beta, and gamma activity, and their relationship to different attention conditions.
-
-**Areas explored:**
-- EEG signal processing and feature extraction.
-- Frequency-band analysis.
-- Machine learning classification.
-- Cognitive neuroscience and computational modeling.
-
-**Status:** Existing research/coursework project; repository documentation and presentation are being refined.
-
-This project connects closely to my undergraduate background in cognitive science and my interest in understanding intelligence from both biological and computational perspectives.
-
-### More to Come
-
-I'm constantly exploring new ideas, revisiting older projects, and improving how I build software.
-
-My goal isn't just to collect projects. It's to gradually build more complete, reliable, and useful AI systems.
-
-Stay tuned.
+- 🎓 **Education:** M.S. Artificial Intelligence @ Northeastern University; B.S. Cognitive Science @ UC San Diego
+- 👨‍🏫 **Currently:** Teaching Assistant for Algorithms at Northeastern
+- 💻 **Building:** LLM-powered applications, machine learning systems, and healthcare AI projects
+- 📍 **Based in:** Seattle, Washington
+- 🚀 **Goal:** Become the kind of engineer who can take an AI idea from an experiment to a working product
 
 ---
 
-## Stack & Tools
+## 🚀 Projects I'm Proud Of
 
-These are some of the technologies I've worked with across coursework, research, and personal projects.
+A few projects that represent what I've been learning, building, and experimenting with.
 
-### Languages
+### 01. Prior Authorization Appeal Builder
 
-- Python
-- SQL
+**Applied AI · LLM Workflows · Healthcare**
 
-### Machine Learning & Data Science
+[Explore the Repository](https://github.com/Samer-4/priorauth-rag)
 
-- PyTorch
-- scikit-learn
-- NumPy
-- Pandas
-- SciPy
-- Jupyter Notebook
+An AI-powered workflow that analyzes prior authorization denials, evaluates supporting clinical evidence against payer requirements, and generates structured appeal drafts.
 
-### LLM & Applied AI Development
+The current pipeline handles:
 
-- Anthropic API
-- Pydantic
-- Prompt Engineering
-- Embeddings and Semantic Retrieval
-- Retrieval-Augmented Generation
-- Structured LLM Workflows
+- Structured denial extraction and validation
+- Payer policy and criteria lookup
+- Clinical evidence extraction
+- Criterion-level sufficiency evaluation
+- Evidence-grounded appeal generation
 
-### Development Tools
+**Built with:** Python, Anthropic API, Pydantic
 
-- Git and GitHub
-- VS Code
-- Hugging Face
-- Weights & Biases
-- Linux / Terminal
+**Currently working toward:** RAG-based policy retrieval, LangChain and LangGraph integration, verification loops, evaluation, and Docker-based deployment.
 
-### Currently Learning & Integrating
+*Status: Actively developing.*
 
-- LangChain and LangGraph
-- Stateful Agentic Workflows
-- Docker and Containerization
-- REST APIs and Backend Engineering
-- Cloud Infrastructure and Deployment
-- AI System Evaluation and Observability
+This is probably the project I'm most excited about right now. It brings together my interest in healthcare with the engineering side of AI, and there's still a lot I want to build into it.
 
-I believe the best way to learn a technology is to build something with it, understand where it breaks, and figure out how to improve it.
+### 02. Multi-Label Chest X-Ray Classifier
+
+**Deep Learning · Computer Vision · Healthcare**
+
+[Try the Live Demo](https://huggingface.co/spaces/Samer17/chest-xray-classifier-demo) |
+[View the Model](https://huggingface.co/Samer17/chest-xray-multilabel-classifier)
+
+A deep learning system for identifying 14 labeled thoracic findings from chest X-ray images.
+
+A few highlights:
+
+- Fine-tuned an ImageNet-pretrained ResNet-50
+- Worked with the NIH ChestX-ray14 dataset of 112,120 images
+- Achieved **0.823 mean ROC-AUC** on the held-out test set
+- Used Grad-CAM to visualize regions influencing model predictions
+- Published the model and an interactive Hugging Face demo
+
+**Built with:** Python, PyTorch, scikit-learn, Weights & Biases, Hugging Face
+
+*Status: Core ML pipeline completed; interactive demo available.*
+
+This project taught me a lot about what happens beyond simply training a model, especially evaluation, interpretability, and making something accessible for others to try.
+
+### 03. EEG-Based Attention State Classification
+
+**Machine Learning · Neuroscience · Signal Processing**
+
+A project exploring how EEG signals can be used to study and classify different cognitive attention states.
+
+It focuses on extracting EEG frequency-band features and exploring machine learning approaches to understanding attention.
+
+**Areas explored:** EEG signal processing, frequency-band analysis, machine learning, and cognitive neuroscience.
+
+*Status: Existing project; repository documentation is being refined.*
+
+This one is especially personal to me because it connects back to where my interest in AI originally started: understanding the human brain.
+
+### More to Come...
+
+I'm constantly experimenting with new ideas and revisiting older projects to see how I can improve them.
+
+Some projects start as random questions, others come from problems I genuinely want to solve. Either way, I enjoy figuring out how to turn them into something real.
 
 ---
 
-## What I'm Currently Exploring
+## 🛠️ Stack & Tools
 
-A few areas I'm particularly excited about:
+Technologies I've worked with across coursework, research, and personal projects.
 
-**Agentic AI:** Building systems that can manage state, use tools, evaluate intermediate results, and make controlled decisions about what to do next.
+**Languages**
+Python · SQL
 
-**Retrieval-Augmented Generation:** Improving how language models retrieve, ground, and verify information from external knowledge sources.
+**Machine Learning & Data**
+PyTorch · scikit-learn · NumPy · Pandas · SciPy · Jupyter
 
-**AI Engineering:** Learning how to move from a working prototype to a reliable application with testing, APIs, containerization, and deployment.
+**LLMs & Applied AI**
+Anthropic API · Pydantic · Prompt Engineering · Embeddings · RAG · Structured LLM Workflows
 
-**Healthcare AI:** Exploring how machine learning and intelligent workflows can help address real problems in clinical and administrative healthcare settings.
+**Development & Experimentation**
+Git · GitHub · VS Code · Hugging Face · Weights & Biases
 
----
+**Currently Learning**
+LangChain · LangGraph · Docker · Backend APIs · Cloud Deployment · AI Evaluation
 
-## Beyond the Code
-
-I've always been fascinated by how intelligence works, whether that's understanding the human brain or building systems that can learn from data.
-
-My background in cognitive science shaped how I approach AI: not just as a collection of algorithms, but as a field connecting computation, reasoning, perception, and human behavior.
-
-I enjoy learning across disciplines, collaborating with people who think differently, and working on projects that challenge me to develop new skills.
-
-And while I enjoy experimenting with new tools, I find the most satisfaction in getting something to actually work.
+I'm still learning a lot of these technologies, and I think that's part of what makes engineering exciting. There's always something new to understand or a better way to build something.
 
 ---
 
-## Let's Connect
+## 🔍 What I'm Exploring Right Now
 
-I'm always happy to connect with fellow developers, researchers, students, and engineers working on interesting problems.
+A few technical areas I've been spending time on:
 
-I'm particularly interested in opportunities and collaborations involving **Applied AI, AI Engineering, Machine Learning, and Healthcare Technology**.
+- **Agentic AI:** Building workflows that can reason through multiple steps, manage state, and evaluate their own intermediate results.
+- **RAG Systems:** Improving retrieval quality, grounding, and the reliability of LLM-generated responses.
+- **AI Engineering:** Moving beyond notebooks into APIs, testing, containerization, and deployment.
+- **Healthcare AI:** Exploring where machine learning and intelligent automation can meaningfully support healthcare.
+
+---
+
+## 🌎 Beyond the Code
+
+There's a lot more to me than Python and machine learning.
+
+I've always been curious about **people**, especially why we behave the way we do and how different environments shape our decisions, personalities, and perspectives.
+
+That curiosity tends to send me down some pretty random rabbit holes. One day I'm reading about psychology or philosophy, and the next it's geopolitics, history, or something I hadn't even thought about the day before.
+
+Outside of that, here's a little more about me:
+
+- 🏋️ **Fitness:** I love lifting, staying active, and seeing how far I can push myself. Meal prepping has become a pretty big part of my routine too.
+- 🍳 **Cooking:** I genuinely enjoy cooking and experimenting with food. There's something satisfying about making a great meal from scratch.
+- 🎧 **Music:** Big part of my life. I actually used to DJ for a fraternity back in college, which is still a pretty wild chapter to look back on.
+- 🏎️ **Anything with an engine:** Huge motorhead. I love cars, motorcycles, and pretty much anything automotive.
+- 🎨 **Art:** I've always appreciated creativity and the different ways people express themselves, whether through visual art, music, or design.
+- 📚 **Reading & Curiosity:** Psychology, philosophy, geopolitics, history... honestly, if something catches my attention, I'll probably end up reading about it.
+- 🌲 **Nature:** Something I've started appreciating a lot more recently. Living in the Pacific Northwest certainly helps.
+
+I like having interests that don't necessarily overlap. I think exploring different perspectives, whether through people, places, or completely unrelated subjects, makes life a lot more interesting.
+
+And sometimes the best ideas come when you're doing something completely unrelated to work.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to meet people who enjoy building things, exploring new ideas, or having a good conversation.
+
+Whether you're working on something interesting in AI, looking to collaborate, or just want to connect, feel free to reach out!
 
 - **LinkedIn:** [samer-b-ahmed](https://www.linkedin.com/in/samer-b-ahmed/)
 - **Hugging Face:** [Samer17](https://huggingface.co/Samer17)
 - **GitHub:** [Samer-4](https://github.com/Samer-4)
 
-Feel free to reach out, whether it's about a project, an interesting idea, or simply connecting over a shared interest in AI.
-
 ---
 
-*Always learning. Always building. More to come.*
+*Always curious. Always learning. Always building.*
