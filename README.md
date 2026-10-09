@@ -80,7 +80,7 @@ A few highlights:
 
 This project taught me a lot about what happens beyond simply training a model, especially evaluation, interpretability, and making something accessible for others to try.
 
-### 03. EEG-Based Attention State Classification
+### 03. NeuroFocus - EEG-Based Attention State Classification
 
 **Machine Learning · Neuroscience · Signal Processing**
 
